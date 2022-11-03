@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrosApi", "LivrosApi\LivrosApi.csproj", "{9C03C9BD-C5A8-4ABB-9D66-836E8A6D90CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C03C9BD-C5A8-4ABB-9D66-836E8A6D90CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C03C9BD-C5A8-4ABB-9D66-836E8A6D90CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C03C9BD-C5A8-4ABB-9D66-836E8A6D90CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C03C9BD-C5A8-4ABB-9D66-836E8A6D90CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3E2F9D3-68F1-44D0-864D-0B25135B5220}
+	EndGlobalSection
+EndGlobal
